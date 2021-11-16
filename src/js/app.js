@@ -23,10 +23,5 @@ window.addEventListener("DOMContentLoaded", () => {
         body.appendChild(article);
       }
     }
-    
-    
-  const button = document.querySelector(".button");
-  button.addEventListener("click", () => {
-    alert("💣");
   });
 });
